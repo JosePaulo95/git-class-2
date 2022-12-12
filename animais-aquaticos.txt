@@ -1,3 +1,5 @@
 peixe-boi
 golfinho
 tubarão
+piranha
+lula
